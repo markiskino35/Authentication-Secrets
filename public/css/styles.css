@@ -14,3 +14,8 @@ body {
   color: #fff;
   background-color: #000;
 }
+
+.card-body {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
